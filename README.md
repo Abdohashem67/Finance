@@ -1,4 +1,4 @@
-#Project: Finance Simulation
+Project: Finance Simulation
 
 Client: A beginner investor who wants to learn about the stock market and practice trading skills.
 
